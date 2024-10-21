@@ -1,4 +1,4 @@
-# The missing PUGS monthly newsletter for members
+# The missing PUGS monthly members newsletter
 Make PyConSG great again!
 
 - Nov24 issue (akan datang)
